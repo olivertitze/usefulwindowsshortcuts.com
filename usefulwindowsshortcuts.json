@@ -1,0 +1,74 @@
+[
+	{
+		"keys": ["Win","Pause"],
+		"description": "Display the System Properties dialog box"
+	},
+	{
+		"keys": ["Win","D"],
+		"description": "Minimize all windows and display the desktop"
+	},
+	{
+		"keys": ["Win","E"],
+		"description": "Open windows explorer"
+	},
+	{
+		"keys": ["Win","M"],
+		"description": "Minimize all windows"
+	},
+	{
+		"keys": ["Win","L"],
+		"description": "Lock computer"
+	},
+	{
+		"keys": ["Win","R"],
+		"description": "Open run dialog box"
+	},
+	{
+		"keys": ["Win","T"],
+		"description": "Cycle through applications on the taskbar"
+	},
+	{
+		"keys": ["Win","1-9"],
+		"description": "Start or view the program pinned to taskbar in the position of the number"
+	},
+	{
+		"keys": ["Shift","Win","1-9"],
+		"description": "Start a new instance of the program pinned to taskbar in the position of the number"
+	},
+	{
+		"keys": ["Win","Up"],
+		"description": "Maximize current window"
+	},
+	{
+		"keys": ["Win","Left"],
+		"description": "Move current window to the left half of the screen"
+	},
+	{
+		"keys": ["Win","Right"],
+		"description": "Move current window to the right half of the screen"
+	},
+	{
+		"keys": ["Win","Right"],
+		"description": "Minimize current window"
+	},
+	{
+		"keys": ["Win","P"],
+		"description": "Choose a presentation display mode"
+	},
+	{
+		"keys": ["Ctrl","Shift","Esc"],
+		"description": "Open task manager"
+	},
+	{
+		"keys": ["Alt","Tab"],
+		"description": "Switch between open applications"
+	},
+	{
+		"keys": ["Win","F"],
+		"description": "Search for a file or folder"
+	},
+	{
+		"keys": ["Ctrl","Alt","Del"],
+		"description": "Open dialog box to lock screen / change user / sign off / change password / open task manager"
+	}
+]
